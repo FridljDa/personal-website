@@ -11,7 +11,7 @@ role: master student
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: EMBL
-  url: https://www.uni-heidelberg.de/en
+  url: https://www.embl.org/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -71,4 +71,4 @@ Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab
 
 I am enthusiastic about applying mathematical ideas to solve real-world problems, by developing interpretable statistical methods, accompanied by robust software implementations. From a statistical perspective, this interest encompasses high-dimensional data, selective inference, and supervised learning.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
