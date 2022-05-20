@@ -2,15 +2,15 @@
 title: "Variation and time trends in mortality attributable to particulate matter exposure by race-ethnicity, education, and urbanicity in the United States"
 
 # Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
+# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
 - Pascal Geldsetzer
-- Mathew Kiang 
-- Eran Bendavid 
+- Mathew Kiang
+- Eran Bendavid
 - Sam Heft-Neal  
-- Marshall Burke 
+- Marshall Burke
 - Tarik Benmarhnia  
 
 # Author notes (optional)
@@ -32,20 +32,20 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: Working paper.
-publication_short: Working paper.
+publication: Working paper
+publication_short: Working paper
 #publication: In *Wowchemy Conference*
 #publication_short: In *ICW*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: There are large differences in premature mortality in the United States by race/ethnicity, education, and rurality. It is also known that exposure to particulate air pollution (PM2.5) varies strongly across these population groups. Thus far, however, studies have not estimated to what degree the mortality disparities between these population groups can be attributed to differential PM2.5 exposure and related impacts, and how this has varied over time and across geography. Using tract-level data spanning 1990-2016, we examine variation and time trends in mortality attributable to PM2.5 exposure by race/ethnicity, education, and rurality in the US. We show that differences regarding mortality attributable to PM2.5 were consistently most pronounced between race-ethnicities as compared to education or rurality, with the Black population having by far the highest proportion of deaths that were attributable to PM2.5 in all years. Over half of the difference in age-adjusted all-cause mortality between the non-Hispanic White population and Black population was attributable to differential PM2.5 exposure in the years 2000 to 2015. Our study provides the most comprehensive evidence to date of the role of PM2.5 exposure in explaining mortality inequalities between sociodemographic groups in the United States over the past decades.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: In the US between 2000 and 2015, over half of the gap in mortality between Black and non-Hispanic White adults can be explained by the fact that Black adults are, on average, more exposed and more susceptible to air pollution than non-Hispanic White adults.
 
 #tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
@@ -62,7 +62,7 @@ url_source: ''
 url_video: ''
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 #image:
  # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   #focal_point: ""
@@ -73,7 +73,7 @@ url_video: ''
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-#projects: 
+#projects:
 #- example
 
 # Slides (optional).

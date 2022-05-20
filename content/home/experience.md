@@ -22,28 +22,26 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Master student
-    company: EMBL
-    company_url: ''
-    company_logo: org-gc
+  - title: Research assistant
+    company: European Molecular Biology Laboratory
+    company_url: 'https://www.embl.org/'
+    company_logo: European_Molecular_Biology_Laboratory_Logo
     location: Heidelberg, Germany
     date_start: '2021-01-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
+        https://www.huber.embl.de/
+
+        TODO
+
+  - title: Research assistant
+    company: Heidelberg Institute for Global Health
+    company_url: 'https://www.klinikum.uni-heidelberg.de/heidelberger-institut-fuer-global-health/'
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Heidelberg, Germany
+    date_start: '2020-10-01'
+    date_end: '2021-09-30'
+    description: Pascal Geldsetzer https://profiles.stanford.edu/pascal-geldsetzer TODO.
 
 design:
   columns: '2'

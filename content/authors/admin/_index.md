@@ -6,7 +6,7 @@ title: Daniel Fridljand
 superuser: true
 
 # Role/position/tagline
-role: master student
+role: Master Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -54,7 +54,7 @@ social:
   link: https://www.linkedin.com/in/daniel-fridljand-8707a2208/
 
 # Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
+# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
  #- icon: cv
  #  icon_pack: ai
@@ -66,8 +66,6 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 I am enthusiastic about applying mathematical ideas to solve real-world problems, by developing interpretable statistical methods, accompanied by robust software implementations. From a statistical perspective, this interest encompasses high-dimensional data, selective inference, and supervised learning.
 

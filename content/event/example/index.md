@@ -56,12 +56,12 @@ featured: false
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
-- example
+#projects:
+#- example
 ---
 
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
+# {{% callout note %}}
+#Click on the **Slides** button above to view the built-in slides feature.
 {{% /callout %}}
 
 Slides can be added in a few ways:
