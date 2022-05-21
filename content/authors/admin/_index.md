@@ -14,7 +14,7 @@ organizations:
   url: https://www.embl.org/
 
 # Short bio (displayed in user profile at end of posts)
-bio: TODO.
+bio: Interested in statistical methods for Bioinformatics.
 
 # Interests to show in About widget
 interests:
