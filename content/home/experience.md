@@ -41,7 +41,7 @@ experience:
     location: Heidelberg, Germany
     date_start: '2020-10-01'
     date_end: '2021-09-30'
-    description: "Research project in collaboration with [Pascal Geldsetzer](https://profiles.stanford.edu/pascal-geldsetzer) and other researchers at Stanford University. We are analysing the health disparities attributable to particulate matter exposure between different socio-demographic groups in the United States."
+    description: "Research project in collaboration with [Pascal Geldsetzer](https://profiles.stanford.edu/pascal-geldsetzer) and other researchers at [Stanford University](https://www.stanford.edu/). We are analysing the health disparities attributable to particulate matter exposure between different socio-demographic groups in the United States."
 
   - title: Exchange student
     company: Hebrew University of Jerusalem
