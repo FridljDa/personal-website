@@ -27,8 +27,8 @@ experience:
     company_url: 'https://www.huber.embl.de/'
     #company_logo: European_Molecular_Biology_Laboratory_Logo
     location: Heidelberg, Germany
-    date_start: '2021-01-01'
-    date_end: ''
+    date_start: '2021-10-01'
+    date_end: '2022-05-31'
     description: |2-
         Research project at the [Huber lab](https://www.huber.embl.de/) at [EMBL](https://www.embl.org/). I am extending a multiple testing procedure ([IHW](https://bioconductor.org/packages/release/bioc/html/IHW.html)) to multi-dimensional input data throught the use of random forests.
 #Research project.
