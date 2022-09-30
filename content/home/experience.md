@@ -29,8 +29,8 @@ experience:
   location: New Haven, USA
   date_start: '2022-09-01'
   date_end: '2023-05-31'
-  description: |2-
-    Academic advisor: [Smita Krishnaswamy](https://www.krishnaswamylab.org/)
+  description: |1- Academic advisor: [Smita Krishnaswamy](https://www.krishnaswamylab.org/)
+
   - title: Research assistant - Biostatistics
     company: Quantitative Biology and Statistics group, European Molecular Biology Laboratory
     company_url: 'https://www.huber.embl.de/'
