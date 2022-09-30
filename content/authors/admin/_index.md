@@ -6,12 +6,12 @@ title: Daniel Fridljand
 superuser: true
 
 # Role/position/tagline
-role: Master Student
+role: Visiting master Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: EMBL
-  url: https://www.embl.org/
+- name: Yale University
+  url: https://www.yale.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: Interested in statistical methods for Bioinformatics.

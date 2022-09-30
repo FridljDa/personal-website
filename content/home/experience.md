@@ -22,6 +22,15 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+- title: Visiting master student
+  company: Yale University
+  company_url: 'https://www.yale.edu/'
+  #company_logo: European_Molecular_Biology_Laboratory_Logo
+  location: New Haven, USA
+  date_start: '2022-09-01'
+  date_end: '2023-05-31'
+  description: |2-
+    Academic advisor: [Smita Krishnaswamy](https://www.krishnaswamylab.org/)
   - title: Research assistant - Biostatistics
     company: Quantitative Biology and Statistics group, European Molecular Biology Laboratory
     company_url: 'https://www.huber.embl.de/'
@@ -43,14 +52,14 @@ experience:
     date_end: '2021-09-30'
     description: "Research project in collaboration with [Pascal Geldsetzer](https://profiles.stanford.edu/pascal-geldsetzer) and other researchers at [Stanford University](https://www.stanford.edu/). We are analysing the health disparities attributable to particulate matter exposure between different socio-demographic groups in the United States."
 
-  - title: Exchange student
+  - title: Visiting student
     company: Hebrew University of Jerusalem
     company_url: 'https://en.huji.ac.il/en'
     #company_logo: org-x
     location: Jerusalem, Israel
     date_start: '2019-09-01'
     date_end: '2020-03-12'
-    description: Non-graduating exchange student.
+    description: Visiting student.
 
 #Visited Courses:
 #-functional analysis
