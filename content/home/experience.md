@@ -31,6 +31,7 @@ experience:
   date_start: '2023-07-17'
   date_end: 'present'
   description: "Research project in collaboration with [Pascal Geldsetzer](https://profiles.stanford.edu/pascal-geldsetzer). We are analysing the health disparities attributable to particulate matter exposure between different socio-demographic groups in the United States."
+  
   - title: Non-graduating exchange student.
     company: Yale University, Applied Mathematics Program
     company_url: 'https://applied.math.yale.edu/'
