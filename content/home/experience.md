@@ -31,7 +31,7 @@ experience:
     date_start: '2022-09-01'
     date_end: '2023-05-30'
     description: #|2-
-        Advised by Prof. Dr. Smita Krishnaswamy, Prof. Dr. Yuval Kluger
+        Advised by [Prof. Dr. Smita Krishnaswamy](https://krishnaswamylab.org/) , [Prof. Dr. Yuval Kluger](https://medicine.yale.edu/profile/yuval-kluger/)
   - title: Research assistant - Biostatistics
     company: Quantitative Biology and Statistics group, European Molecular Biology Laboratory
     company_url: 'https://www.huber.embl.de/'
