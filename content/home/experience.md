@@ -23,6 +23,15 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
 experience:
+  - title: Non-graduating exchange student.
+    company: Hebrew University of Jerusalem, Einstein Institute of Mathematics
+    company_url: 'https://en.huji.ac.il/en'
+    #company_logo: org-x
+    location: Jerusalem, Israel
+    date_start: '2019-09-01'
+    date_end: '2020-03-12'
+    description: Graduate-level courses in Functional Analysis, Algebraic Combinatorics, and Quantitative Models.
+
   - title: Research assistant - Biostatistics
     company: Quantitative Biology and Statistics group, European Molecular Biology Laboratory
     company_url: 'https://www.huber.embl.de/'
