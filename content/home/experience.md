@@ -61,7 +61,7 @@ experience:
   - title: Non-graduating exchange student.
     company: Hebrew University of Jerusalem, Einstein Institute of Mathematics
     company_url: 'https://en.huji.ac.il/en'
-    #company_logo: org-x
+    company_logo: Hebrew_University_Logo
     location: Jerusalem, Israel
     date_start: '2019-09-01'
     date_end: '2020-03-12'
