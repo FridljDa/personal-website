@@ -30,7 +30,7 @@ experience:
     location: Palo Alto, CA, USA
     date_start: '2023-07-17'
     date_end: '2023-12-19'
-    description: "Research project in collaboration with [Pascal Geldsetzer](https://profiles.stanford.edu/pascal-geldsetzer). We are analysing the health disparities attributable to particulate matter exposure between different socio-demographic groups in the United States."
+    description: "Continuing research project in collaboration with [Pascal Geldsetzer](https://profiles.stanford.edu/pascal-geldsetzer). We are analysing the health disparities attributable to particulate matter exposure between different socio-demographic groups in the United States."
   - title: Non-graduating exchange student.
     company: Yale University, Applied Mathematics Program
     company_url: 'https://applied.math.yale.edu/'
@@ -52,7 +52,7 @@ experience:
   - title: Research assistant - Public Health
     company: Heidelberg Institute for Global Health
     company_url: 'https://www.klinikum.uni-heidelberg.de/heidelberger-institut-fuer-global-health/'
-    #company_logo: high.jpeg
+    company_logo: high.jpeg
     location: Heidelberg, Germany
     date_start: '2020-10-01'
     date_end: '2021-09-30'
