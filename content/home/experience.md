@@ -48,7 +48,7 @@ experience:
     date_start: '2021-10-01'
     date_end: '2022-05-31'
     description: |2-
-        I worked with [Huber lab](https://www.huber.embl.de/) and [Nikos Ignatiadis](https://nignatiadis.github.io/). I extended a multiple testing procedure ([IHW](https://bioconductor.org/packages/release/bioc/html/IHW.html)) to multi-dimensional input data through the use of random forests.
+        I worked with [Wolfgang Huber](https://www.huber.embl.de/) and [Nikos Ignatiadis](https://nignatiadis.github.io/). I extended a multiple testing procedure ([IHW](https://bioconductor.org/packages/release/bioc/html/IHW.html)) to multi-dimensional input data through the use of random forests.
   - title: Research assistant - Public Health
     company: Heidelberg Institute for Global Health
     company_url: 'https://www.klinikum.uni-heidelberg.de/heidelberger-institut-fuer-global-health/'
