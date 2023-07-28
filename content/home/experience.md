@@ -43,7 +43,7 @@ experience:
   - title: Research assistant - Biostatistics
     company: Quantitative Biology and Statistics group, European Molecular Biology Laboratory
     company_url: 'https://www.huber.embl.de/'
-    #company_logo: European_Molecular_Biology_Laboratory_Logo
+    company_logo: European_Molecular_Biology_Laboratory_Logo
     location: Heidelberg, Germany
     date_start: '2021-10-01'
     date_end: '2022-05-31'
