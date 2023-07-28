@@ -31,7 +31,7 @@ experience:
     date_start: '2023-07-17'
     date_end: '2023-12-19'
     description: "Continuing research project in collaboration with [Pascal Geldsetzer](https://profiles.stanford.edu/pascal-geldsetzer). We are analysing the health disparities attributable to particulate matter exposure between different socio-demographic groups in the United States."
-  - title: Non-graduating exchange student.
+  - title: Non-graduating exchange student
     company: Yale University, Applied Mathematics Program
     company_url: 'https://applied.math.yale.edu/'
     company_logo: Yale_University_Shield_1
@@ -58,7 +58,7 @@ experience:
     date_end: '2021-09-30'
     description: "Research project in collaboration with [Pascal Geldsetzer](https://profiles.stanford.edu/pascal-geldsetzer). We are analysing the health disparities attributable to particulate matter exposure between different socio-demographic groups in the United States."
 
-  - title: Non-graduating exchange student.
+  - title: Non-graduating exchange student
     company: Hebrew University of Jerusalem, Einstein Institute of Mathematics
     company_url: 'https://en.huji.ac.il/en'
     company_logo: Hebrew_University_Logo
