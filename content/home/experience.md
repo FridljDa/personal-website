@@ -31,13 +31,7 @@ experience:
     date_start: '2022-09-01'
     date_end: '2023-05-30'
     description: |2-
-    #Academic advisor:
-    Prof. Dr. Smita Krishnaswamy, Prof. Dr. Yuval Kluger
-      Graduate-level courses in Theory and Application of Deep Learning, Statistical
-      Methods in Human Genetics, Molecular and Biochemical Principles of Gene
-      Function, Geometric and Topological Methods in Machine Learning,
-      Differential Topology, Stochastic Models and Inference for the Biomedical and
-      Social Sciences
+        Research project at the [Huber lab](https://www.huber.embl.de/) at [EMBL](https://www.embl.org/). I am extending a multiple testing procedure ([IHW](https://bioconductor.org/packages/release/bioc/html/IHW.html)) to multi-dimensional input data throught the use of random forests.
   - title: Research assistant - Biostatistics
     company: Quantitative Biology and Statistics group, European Molecular Biology Laboratory
     company_url: 'https://www.huber.embl.de/'
