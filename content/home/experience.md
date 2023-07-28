@@ -28,10 +28,16 @@ experience:
     company_url: 'https://applied.math.yale.edu/'
     #company_logo: org-x
     location: New Haven, USA
-    date_start: '2019-09-01'
-    date_end: '2020-03-12'
-    description: Graduate-level courses in Functional Analysis, Algebraic Combinatorics, and Quantitative Models.
-
+    date_start: '2022-09-01'
+    date_end: '2023-05-30'
+    description: |2-
+    #Academic advisor:
+    Prof. Dr. Smita Krishnaswamy, Prof. Dr. Yuval Kluger
+      Graduate-level courses in Theory and Application of Deep Learning, Statistical
+      Methods in Human Genetics, Molecular and Biochemical Principles of Gene
+      Function, Geometric and Topological Methods in Machine Learning,
+      Differential Topology, Stochastic Models and Inference for the Biomedical and
+      Social Sciences
   - title: Research assistant - Biostatistics
     company: Quantitative Biology and Statistics group, European Molecular Biology Laboratory
     company_url: 'https://www.huber.embl.de/'
