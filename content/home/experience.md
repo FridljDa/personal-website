@@ -47,7 +47,7 @@ experience:
     location: Jerusalem, Israel
     date_start: '2019-09-01'
     date_end: '2020-03-12'
-    #description: 
+    description: Graduate-level courses in Functional Analysis, Algebraic Combinatorics, and Quantitative Models.
 
 #Visited Courses:
 #-functional analysis
