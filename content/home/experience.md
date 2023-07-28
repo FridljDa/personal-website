@@ -52,7 +52,7 @@ experience:
   - title: Research assistant - Public Health
     company: Heidelberg Institute for Global Health
     company_url: 'https://www.klinikum.uni-heidelberg.de/heidelberger-institut-fuer-global-health/'
-    company_logo: high.jpeg
+    company_logo: high
     location: Heidelberg, Germany
     date_start: '2020-10-01'
     date_end: '2021-09-30'
