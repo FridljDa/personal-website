@@ -31,9 +31,6 @@ experience:
     date_end: '2022-05-31'
     description: |2-
         Research project at the [Huber lab](https://www.huber.embl.de/) at [EMBL](https://www.embl.org/). I am extending a multiple testing procedure ([IHW](https://bioconductor.org/packages/release/bioc/html/IHW.html)) to multi-dimensional input data throught the use of random forests.
-#Research project.
-    #At the Huber group at EMBL I will analyze two recently-published single-cell RNA sequencing algorithms as part of my master thesis.
-
   - title: Research assistant - Public Health
     company: Heidelberg Institute for Global Health
     company_url: 'https://www.klinikum.uni-heidelberg.de/heidelberger-institut-fuer-global-health/'
