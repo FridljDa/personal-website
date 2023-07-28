@@ -26,7 +26,7 @@ experience:
   - title: Research assistant - Public Health
     company: Stanford University, Department of Medicine, Primary Care and Population Health
     company_url: 'https://med.stanford.edu/pcph.html'
-    #company_logo: high.jpeg
+    company_logo: Stanford_Cardinal_logo
     location: Palo Alto, CA, USA
     date_start: '2023-07-17'
     date_end: '2023-12-19'
