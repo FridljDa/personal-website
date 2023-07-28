@@ -38,8 +38,8 @@ experience:
     location: New Haven, USA
     date_start: '2022-09-01'
     date_end: '2023-05-31'
-    description: #|2-
-        Advised by [Prof. Dr. Smita Krishnaswamy](https://krishnaswamylab.org/) , [Prof. Dr. Yuval Kluger](https://medicine.yale.edu/profile/yuval-kluger/)
+    description: |2-
+        Advised by [Prof. Dr. Smita Krishnaswamy](https://krishnaswamylab.org/) and [Prof. Dr. Yuval Kluger](https://medicine.yale.edu/profile/yuval-kluger/). Graduate-level courses in Theory and Application of Deep Learning, Statistical Methods in Human Genetics, Molecular and Biochemical Principles of Gene Function, Geometric and Topological Methods in Machine Learning, Differential Topology, Stochastic Models and Inference for the Biomedical and Social Sciences
   - title: Research assistant - Biostatistics
     company: Quantitative Biology and Statistics group, European Molecular Biology Laboratory
     company_url: 'https://www.huber.embl.de/'
@@ -48,7 +48,7 @@ experience:
     date_start: '2021-10-01'
     date_end: '2022-05-31'
     description: |2-
-        Research project at the [Huber lab](https://www.huber.embl.de/) at [EMBL](https://www.embl.org/). I am extending a multiple testing procedure ([IHW](https://bioconductor.org/packages/release/bioc/html/IHW.html)) to multi-dimensional input data throught the use of random forests.
+        I worked with [Huber lab](https://www.huber.embl.de/) and [Nikos Ignatiadis](https://nignatiadis.github.io/). I extended a multiple testing procedure ([IHW](https://bioconductor.org/packages/release/bioc/html/IHW.html)) to multi-dimensional input data through the use of random forests.
   - title: Research assistant - Public Health
     company: Heidelberg Institute for Global Health
     company_url: 'https://www.klinikum.uni-heidelberg.de/heidelberger-institut-fuer-global-health/'
