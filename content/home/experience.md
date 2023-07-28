@@ -30,8 +30,8 @@ experience:
     location: New Haven, USA
     date_start: '2022-09-01'
     date_end: '2023-05-30'
-    description: |2-
-        Research project at the [Huber lab](https://www.huber.embl.de/) at [EMBL](https://www.embl.org/). I am extending a multiple testing procedure ([IHW](https://bioconductor.org/packages/release/bioc/html/IHW.html)) to multi-dimensional input data throught the use of random forests.
+    description: #|2-
+        Advised by Prof. Dr. Smita Krishnaswamy, Prof. Dr. Yuval Kluger
   - title: Research assistant - Biostatistics
     company: Quantitative Biology and Statistics group, European Molecular Biology Laboratory
     company_url: 'https://www.huber.embl.de/'
