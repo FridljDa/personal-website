@@ -23,13 +23,21 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
 experience:
+- title: Research assistant - Public Health
+  company: Stanford University
+  company_url: 'https://www.klinikum.uni-heidelberg.de/heidelberger-institut-fuer-global-health/'
+  #company_logo: high.jpeg
+  location: Palo Alto, CA, USA
+  date_start: '2023-07-17'
+  date_end: 'present'
+  description: "Research project in collaboration with [Pascal Geldsetzer](https://profiles.stanford.edu/pascal-geldsetzer). We are analysing the health disparities attributable to particulate matter exposure between different socio-demographic groups in the United States."
   - title: Non-graduating exchange student.
     company: Yale University, Applied Mathematics Program
     company_url: 'https://applied.math.yale.edu/'
     #company_logo: org-x
-    location: New Haven, USA
+    location: New Haven, CT, USA
     date_start: '2022-09-01'
-    date_end: '2023-05-30'
+    date_end: '2023-05-31'
     description: #|2-
         Advised by [Prof. Dr. Smita Krishnaswamy](https://krishnaswamylab.org/) , [Prof. Dr. Yuval Kluger](https://medicine.yale.edu/profile/yuval-kluger/)
   - title: Research assistant - Biostatistics
