@@ -24,10 +24,10 @@ date_format: Jan 2006
 
 experience:
   - title: Non-graduating exchange student.
-    company: Hebrew University of Jerusalem, Einstein Institute of Mathematics
-    company_url: 'https://en.huji.ac.il/en'
+    company: Yale University, Applied Mathematics Program
+    company_url: 'https://applied.math.yale.edu/'
     #company_logo: org-x
-    location: Jerusalem, Israel
+    location: New Haven, USA
     date_start: '2019-09-01'
     date_end: '2020-03-12'
     description: Graduate-level courses in Functional Analysis, Algebraic Combinatorics, and Quantitative Models.
