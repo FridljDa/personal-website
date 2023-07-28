@@ -21,6 +21,7 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+
 experience:
   - title: Research assistant - Biostatistics
     company: Quantitative Biology and Statistics group, European Molecular Biology Laboratory
@@ -38,7 +39,7 @@ experience:
     location: Heidelberg, Germany
     date_start: '2020-10-01'
     date_end: '2021-09-30'
-    description: "Research project in collaboration with [Pascal Geldsetzer](https://profiles.stanford.edu/pascal-geldsetzer) and other researchers at [Stanford University](https://www.stanford.edu/). We are analysing the health disparities attributable to particulate matter exposure between different socio-demographic groups in the United States."
+    description: "Research project in collaboration with [Pascal Geldsetzer](https://profiles.stanford.edu/pascal-geldsetzer). We are analysing the health disparities attributable to particulate matter exposure between different socio-demographic groups in the United States."
 
   - title: Non-graduating exchange student.
     company: Hebrew University of Jerusalem, Einstein Institute of Mathematics
