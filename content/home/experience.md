@@ -34,7 +34,7 @@ experience:
   - title: Non-graduating exchange student.
     company: Yale University, Applied Mathematics Program
     company_url: 'https://applied.math.yale.edu/'
-    #company_logo: org-x
+    company_logo: Yale_University_Shield_1
     location: New Haven, USA
     date_start: '2022-09-01'
     date_end: '2023-05-31'
