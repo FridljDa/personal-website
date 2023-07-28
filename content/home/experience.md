@@ -40,14 +40,14 @@ experience:
     date_end: '2021-09-30'
     description: "Research project in collaboration with [Pascal Geldsetzer](https://profiles.stanford.edu/pascal-geldsetzer) and other researchers at [Stanford University](https://www.stanford.edu/). We are analysing the health disparities attributable to particulate matter exposure between different socio-demographic groups in the United States."
 
-  - title: Exchange student
+  - title: Non-graduating exchange student.
     company: Hebrew University of Jerusalem
     company_url: 'https://en.huji.ac.il/en'
     #company_logo: org-x
     location: Jerusalem, Israel
     date_start: '2019-09-01'
     date_end: '2020-03-12'
-    description: Non-graduating exchange student.
+    description:
 
 #Visited Courses:
 #-functional analysis
