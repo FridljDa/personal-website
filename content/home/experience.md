@@ -40,14 +40,14 @@ experience:
     date_end: '2023-05-31'
     description: |2-
         Advised by [Prof. Dr. Smita Krishnaswamy](https://krishnaswamylab.org/) and [Prof. Dr. Yuval Kluger](https://medicine.yale.edu/profile/yuval-kluger/). Graduate-level courses in Theory and Application of Deep Learning, Statistical Methods in Human Genetics, Molecular and Biochemical Principles of Gene Function, Geometric and Topological Methods in Machine Learning, Differential Topology, Stochastic Models and Inference for the Biomedical and Social Sciences
-  - title: Master of Science
+  - title: Master of Science, Mathematics
     company: Heidelberg University
     company_url: 'https://www.uni-heidelberg.de/'
     company_logo: Logo_University_of_Heidelberg
     location: Heidelberg, Germany
     date_start: '2020-10-01'
     date_end: '2023-05-31'
-    description: Mathematics
+    description: Thesis advisor: [Dr. Wolfgang Huber](https://www.huber.embl.de/), [Prof. Dr. Jan Johannes](https://www.janjohannes.de/en/)
   - title: Research assistant - Biostatistics
     company: Quantitative Biology and Statistics group, European Molecular Biology Laboratory
     company_url: 'https://www.huber.embl.de/'
@@ -75,13 +75,13 @@ experience:
     date_end: '2020-03-12'
     description: Graduate-level courses in Functional Analysis, Algebraic Combinatorics, and Quantitative Models.
   - title: Bachelor of Science
-    company: Heidelberg University
+    company: Heidelberg University, Mathematics
     company_url: 'https://www.uni-heidelberg.de/'
     company_logo: Logo_University_of_Heidelberg
     location: Heidelberg, Germany
     date_start: '2017-10-01'
     date_end: '2020-09-30'
-    description: Mathematics
+    description: Thesis advisor: [Prof. Dr. Jan Johannes](https://www.janjohannes.de/en/)
 
 #Visited Courses:
 #-functional analysis
