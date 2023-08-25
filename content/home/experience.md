@@ -40,6 +40,14 @@ experience:
     date_end: '2023-05-31'
     description: |2-
         Advised by [Prof. Dr. Smita Krishnaswamy](https://krishnaswamylab.org/) and [Prof. Dr. Yuval Kluger](https://medicine.yale.edu/profile/yuval-kluger/). Graduate-level courses in Theory and Application of Deep Learning, Statistical Methods in Human Genetics, Molecular and Biochemical Principles of Gene Function, Geometric and Topological Methods in Machine Learning, Differential Topology, Stochastic Models and Inference for the Biomedical and Social Sciences
+  - title: Master of Science
+    company: Heidelberg University
+          #company_url: 'https://en.huji.ac.il/en'
+          #company_logo: Hebrew_University_Logo
+    location: Heidelberg, Germany
+    date_start: '2020-10-01'
+    date_end: '2023-05-31'
+    description: Mathematics
   - title: Research assistant - Biostatistics
     company: Quantitative Biology and Statistics group, European Molecular Biology Laboratory
     company_url: 'https://www.huber.embl.de/'
