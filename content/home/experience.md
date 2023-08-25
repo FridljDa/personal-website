@@ -47,7 +47,7 @@ experience:
     location: Heidelberg, Germany
     date_start: '2020-10-01'
     date_end: '2023-05-31'
-    description: Thesis advisor: [Dr. Wolfgang Huber](https://www.huber.embl.de/), [Prof. Dr. Jan Johannes](https://www.janjohannes.de/en/)
+    description: Thesis advisor: Dr. Wolfgang Huber, Prof. Dr. Jan Johannes
   - title: Research assistant - Biostatistics
     company: Quantitative Biology and Statistics group, European Molecular Biology Laboratory
     company_url: 'https://www.huber.embl.de/'
@@ -74,14 +74,14 @@ experience:
     date_start: '2019-09-01'
     date_end: '2020-03-12'
     description: Graduate-level courses in Functional Analysis, Algebraic Combinatorics, and Quantitative Models.
-  - title: Bachelor of Science
-    company: Heidelberg University, Mathematics
+  - title: Bachelor of Science, Mathematics
+    company: Heidelberg University
     company_url: 'https://www.uni-heidelberg.de/'
     company_logo: Logo_University_of_Heidelberg
     location: Heidelberg, Germany
     date_start: '2017-10-01'
     date_end: '2020-09-30'
-    description: Thesis advisor: [Prof. Dr. Jan Johannes](https://www.janjohannes.de/en/)
+    description: Thesis advisor: Prof. Dr. Jan Johannes
 
 #Visited Courses:
 #-functional analysis
