@@ -66,6 +66,14 @@ experience:
     date_start: '2019-09-01'
     date_end: '2020-03-12'
     description: Graduate-level courses in Functional Analysis, Algebraic Combinatorics, and Quantitative Models.
+  - title: Bachelor of Science
+    company: Heidelberg University
+    #company_url: 'https://en.huji.ac.il/en'
+    #company_logo: Hebrew_University_Logo
+    location: Heidelberg, Germany
+    date_start: '2017-10-01'
+    date_end: '2020-09-30'
+    description: Mathematics
 
 #Visited Courses:
 #-functional analysis
