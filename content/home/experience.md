@@ -23,6 +23,14 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
 experience:
+ - title: Research Assistant - Biostatistics
+    company: ETH Zuerich, Department of Biosystems Science and Engineering
+    company_url: 'https://ethz.ch/en.html'
+    company_logo: ETH_Logo
+    location: Basel, Switzerland
+    date_start: '2024-02-01'
+    date_end:
+    description: "Research assistant in the [Beerenwinkel group](https://bsse.ethz.ch/cbg/group.html)."
   - title: Research assistant - Public Health
     company: Stanford University, Department of Medicine, Primary Care and Population Health
     company_url: 'https://med.stanford.edu/pcph.html'
