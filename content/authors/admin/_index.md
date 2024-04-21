@@ -10,8 +10,8 @@ role: Research Assistant
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://profiles.stanford.edu/daniel-fridljand
+- name: ETH Zürich
+  url: https://bsse.ethz.ch/people/detail-person.MzQxNjQz.TGlzdC8yNjY5LC0xMDExNjczNjI=.html
 
 # Short bio (displayed in user profile at end of posts)
 bio: Statistical methods development for biological data.
@@ -68,5 +68,7 @@ highlight_name: true
 ---
 
 I am enthusiastic about applying mathematical ideas to solve real-world problems, by developing interpretable statistical methods, accompanied by robust software implementations. From a statistical perspective, this interest encompasses high-dimensional data, selective inference, and supervised learning.
+
+I studied Mathematics in Regensburg, and was fortunate to spend time at Hebrew University of Jerusalem, Yale and Stanford during my studies.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
