@@ -23,14 +23,14 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
 experience:
-- title: Non-graduating exchange student.
-  company: Yale University, Applied Mathematics Program
-  company_url: 'https://applied.math.yale.edu/'
-  #company_logo: org-x
-  location: New Haven, USA
-  date_start: '2022-09-01'
-  date_end: '2023-05-30'
-  description: Graduate-level courses in Functional Analysis, Algebraic Combinatorics, and Quantitative Models.
+#- title: Non-graduating exchange student.
+#  company: Yale University, Applied Mathematics Program
+#  company_url: 'https://applied.math.yale.edu/'
+#  #company_logo: org-x
+#  location: New Haven, USA
+#  date_start: '2022-09-01'
+#  date_end: '2023-05-30'
+#  description: Graduate-level courses in Functional Analysis, Algebraic Combinatorics, and Quantitative Models.
 
   - title: Research assistant - Biostatistics
     company: Quantitative Biology and Statistics group, European Molecular Biology Laboratory
