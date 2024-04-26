@@ -6,20 +6,21 @@ title: Daniel Fridljand
 superuser: true
 
 # Role/position/tagline
-role: Visiting master Student
+role: Research Assistant
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Yale University
-  url: https://www.yale.edu/
+- name: Stanford University
+  url: https://profiles.stanford.edu/daniel-fridljand
+
 
 # Short bio (displayed in user profile at end of posts)
-bio: Interested in statistical methods for Bioinformatics.
+bio: Statistical methods development for biological data.
 
 # Interests to show in About widget
 interests:
 - Statistics
-- Machine learning
+- Applied Mathematics
 - Bioinformatics
 
 # Education to show in About widget
@@ -27,7 +28,7 @@ education:
   courses:
   - course: Msc in Mathematics
     institution: University of Heidelberg
-    year: 2023 (Expected)
+    year: 2023
   - course: BSc in Mathematics
     institution: University of Heidelberg
     year: 2020
@@ -39,7 +40,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:daniel.fridljand@embl.de'
+  link: 'mailto:fridljan@stanford.edu'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/DanielFridljand

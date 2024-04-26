@@ -21,6 +21,15 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+- title: Non-graduating exchange student.
+  company: Yale University, Applied Mathematics Program
+  company_url: 'https://applied.math.yale.edu/'
+  #company_logo: org-x
+  location: New Haven, USA
+  date_start: '2022-09-01'
+  date_end: '2023-05-30'
+  description: Graduate-level courses in Functional Analysis, Algebraic Combinatorics, and Quantitative Models.
+
 experience:
   - title: Research assistant - Biostatistics
     company: Quantitative Biology and Statistics group, European Molecular Biology Laboratory
@@ -31,9 +40,6 @@ experience:
     date_end: '2022-05-31'
     description: |2-
         Research project at the [Huber lab](https://www.huber.embl.de/) at [EMBL](https://www.embl.org/). I am extending a multiple testing procedure ([IHW](https://bioconductor.org/packages/release/bioc/html/IHW.html)) to multi-dimensional input data throught the use of random forests.
-#Research project.
-    #At the Huber group at EMBL I will analyze two recently-published single-cell RNA sequencing algorithms as part of my master thesis.
-
   - title: Research assistant - Public Health
     company: Heidelberg Institute for Global Health
     company_url: 'https://www.klinikum.uni-heidelberg.de/heidelberger-institut-fuer-global-health/'
@@ -41,16 +47,18 @@ experience:
     location: Heidelberg, Germany
     date_start: '2020-10-01'
     date_end: '2021-09-30'
-    description: "Research project in collaboration with [Pascal Geldsetzer](https://profiles.stanford.edu/pascal-geldsetzer) and other researchers at [Stanford University](https://www.stanford.edu/). We are analysing the health disparities attributable to particulate matter exposure between different socio-demographic groups in the United States."
+    description: "Research project in collaboration with [Pascal Geldsetzer](https://profiles.stanford.edu/pascal-geldsetzer). We are analysing the health disparities attributable to particulate matter exposure between different socio-demographic groups in the United States."
 
-  - title: Visiting student
-    company: Hebrew University of Jerusalem
+
+  - title: Non-graduating exchange student.
+    company: Hebrew University of Jerusalem, Einstein Institute of Mathematics
     company_url: 'https://en.huji.ac.il/en'
     #company_logo: org-x
     location: Jerusalem, Israel
     date_start: '2019-09-01'
     date_end: '2020-03-12'
-    description: Visiting student.
+    description: Graduate-level courses in Functional Analysis, Algebraic Combinatorics, and Quantitative Models.
+
 
 #Visited Courses:
 #-functional analysis
