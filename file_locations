@@ -1,3 +1,7 @@
+Download Hugo:
+https://docs.hugoblox.com/getting-started/install-hugo/
+brew install git golang hugo nodeo
+
 bash update.sh -"
 
 Important file locations:
