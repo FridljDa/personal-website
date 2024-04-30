@@ -10,8 +10,8 @@ role: Research Assistant
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://profiles.stanford.edu/daniel-fridljand
+- name: ETH Zürich
+  url: https://ethz.ch/en.html
 
 
 # Short bio (displayed in user profile at end of posts)
@@ -40,7 +40,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:fridljan@stanford.edu'
+  link: 'mailto:daniel.fridljand@ethz.ch'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/DanielFridljand
