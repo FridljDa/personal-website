@@ -8,3 +8,13 @@ Important file locations:
 - website/personal-website/content/authors/admin/_index.md # Author Information
 - content/home/experience.md # Experiences
 - static/uploads/resume.pdf # Resume
+
+Old locations?
+- content/_index.md
+- content/publication/journal-article/cite.bib
+- content/publication/journal-article/index.md
+- post/getting-started/index.md
+
+Maybe useful?
+- content/project/external-project/index.md
+- content/post/blog-with-jupyter/index.md
