@@ -80,7 +80,6 @@ sections:
           date_end: '2023-11-30'
           description: |2-
               * Analyzed the role of air pollution in the race-ethnicity to premature mortality causal chain, under [Pascal Geldsetzer](https://profiles.stanford.edu/pascal-geldsetzer)'s guidance, leading to key insights that contribute to policy-shaping discussions.
-              * Authored a peer-reviewed paper in Nature Medicine, ranking as the 4th medical Journal by h5 index in 2024.
               * Spearheaded the project with minimal supervision. 
               * Devised and implemented a comprehensive statistical analysis in R, synthesized findings from 150 pertinent publications, wrote the initial manuscript and technical supplement, and drove the manuscript from conceptualization to successful publication.
               * Harmonized geospatial and tabular data on air pollution, mortality, population numbers, and orchestrated analyses of 10 different steps. 
