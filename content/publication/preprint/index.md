@@ -5,8 +5,8 @@ title: "Sociodemographic and geographic variation in mortality attributable to a
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- admin
 - Pascal Geldsetzer
+- admin
 - Mathew Kiang
 - Eran Bendavid
 - Sam Heft-Neal  
@@ -33,7 +33,7 @@ publishDate: "2017-01-01T00:00:00Z"
 # publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: Preprint
+publication: Preprint on medRxiv
 publication_short: Preprint
 #publication: In *Wowchemy Conference*
 #publication_short: In *ICW*
