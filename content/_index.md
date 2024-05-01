@@ -78,28 +78,36 @@ sections:
           location: Palo Alto, USA
           date_start: '2023-07-01'
           date_end: '2023-11-30'
-          description: "Research project in collaboration with [Pascal     Geldsetzer](https://profiles.stanford.edu/pascal-geldsetzer). We are analysing the health disparities attributable to particulate matter exposure between different socio-demographic groups in the United States."
+          description: |2-
+              * Analyzed the role of air pollution in the race-ethnicity to premature mortality causal chain, under [Pascal Geldsetzer](https://profiles.stanford.edu/pascal-geldsetzer)'s guidance, leading to key insights that contribute to policy-shaping discussions.
+              * Authored a peer-reviewed paper in Nature Medicine, ranking as the 4th medical Journal by h5 index in 2024.
+              * Spearheaded the project with minimal supervision. 
+              * Devised and implemented a comprehensive statistical analysis in R, synthesized findings from 150 pertinent publications, wrote the initial manuscript and technical supplement, and drove the manuscript from conceptualization to successful publication.
+              * Harmonized geospatial and tabular data on air pollution, mortality, population numbers, and orchestrated analyses of 10 different steps. 
+              * Executed major revisions of the manuscript and conducted new analyses, including 15 new figures, within a strict 2-month deadline as part of the 'Revise and Resubmit' response.
+              * Developed an interactive Shiny web application to visualize 17-dimensional data, enhancing collaboration and data interpretation among the research team.
+              * Collaborated with seven Stanford co-authors to systematically gather and integrate critical feedback throughout various project stages, driving a significant enhancement in research quality.
         - title: Exchange student
           company: Yale University, Applied Mathematics Program
-          company_url: 'https://applied.math.yale.edu/'
+          company_url: 'https://www.yale.edu/'
           company_logo: Yale_University_Shield_1
           location: New Haven, USA
           date_start: '2022-09-01'
           date_end: '2023-05-30'
-          description: Graduate-level courses in Functional Analysis, Algebraic Combinatorics, and Quantitative Models.
+          description: Chosen as one of two master's students to represent the University of Heidelberg in a year-long study abroad program at Yale University. Hosted by the [Applied Mathematics Program](https://applied.math.yale.edu/). Advised by [Smita Krishnaswamy](https://krishnaswamylab.org/).
         - title: Research Assistant 
           company: European Molecular Biology Laboratory
-          company_url: 'https://www.huber.embl.de/'
+          company_url: '(https://www.embl.org/'
           company_logo: European_Molecular_Biology_Laboratory_Logo
           location: Heidelberg, Germany
           date_start: '2021-10-01'
           date_end: '2022-05-31'
           description: |2-
-              Research project at the [Huber lab](https://www.huber.embl.de/) at [EMBL](https://www.embl.org/). I am                 extending a multiple testing procedure      ([IHW](https://bioconductor.org/packages/release/bioc/html/IHW.html)) to multi-dimensional input data throught the use of random forests.
-              Responsibilities include:
-              * Analysing
-              * Modelling
-              * Deploying
+              * Developed and implemented a novel statistical method in R under the guidance of [Wolfgang Huber](https://www.huber.embl.de/) and Nikos Ignatiadis to identify outliers in large-scale data sets, enhancing detection capabilities in the presence of high-dimensional side-information.
+              * Tripled statistical detection power in a high-dimensional setting by integrating Selective Inference, Machine Learning, and Empirical Bayes approaches.
+              * Successfully applied the developed method to genome-wide association study, identifying key genetic markers linked to diseases.
+              * Presented research findings at seven scientific events, including a seminar talks at Yale University and University of North Carolina at Chapel Hill and a competitively selected oral contribution at DAGStat 2022, attended by 100 scholars.
+              * Conducted the peer review for manuscript at Bioinformatics Advances, contributed the peer review for manuscript at Cell Biology.
         - title: Exchange student
           company: Hebrew University of Jerusalem
           company_url: 'https://en.huji.ac.il/en'
