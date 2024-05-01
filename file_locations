@@ -11,8 +11,15 @@ Important file locations:
 
 Old locations?
 - content/_index.md
+
 - content/publication/journal-article/cite.bib
 - content/publication/journal-article/index.md
+
+- content/publication/preprint/index.md
+
+- content/publication/conference-paper/cite.bib
+- content/publication/conference-paper/index.md
+
 - post/getting-started/index.md
 
 Maybe useful?
