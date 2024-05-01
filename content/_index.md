@@ -51,6 +51,7 @@ sections:
   #  design:
   #    columns: '1'
   - block: experience
+    id: experience
     content:
       title: Experience
       # Date format for experience
@@ -62,16 +63,15 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+        - title: Research assistant - Biostatistics
+          company: Quantitative Biology and Statistics group, European Molecular Biology Laboratory
+          company_url: 'https://www.huber.embl.de/'
+          company_logo: European_Molecular_Biology_Laboratory_Logo
+          location: Heidelberg, Germany
+          date_start: '2021-10-01'
+          date_end: '2022-05-31'
           description: |2-
               Responsibilities include:
-
               * Analysing
               * Modelling
               * Deploying
