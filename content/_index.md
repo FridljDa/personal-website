@@ -81,13 +81,13 @@ sections:
           description: |2-
               * Analyzed the role of air pollution in the race-ethnicity to premature mortality causal chain, under [Pascal Geldsetzer](https://profiles.stanford.edu/pascal-geldsetzer)'s guidance, leading to key insights that contribute to policy-shaping discussions.
               * Spearheaded the project with minimal supervision. 
-              * Devised and implemented a comprehensive statistical analysis in R, synthesized findings from 150 pertinent publications, wrote the initial manuscript and technical supplement, and drove the manuscript from conceptualization to successful publication.
+              * Devised and [implemented](https://github.com/FridljDa/pm25_inequality) a comprehensive statistical analysis in R, synthesized findings from 150 pertinent publications, wrote the initial manuscript and technical supplement, and drove the manuscript from conceptualization to successful publication.
               * Harmonized geospatial and tabular data on air pollution, mortality, population numbers, and orchestrated analyses of 10 different steps. 
               * Executed major revisions of the manuscript and conducted new analyses, including 15 new figures, within a strict 2-month deadline as part of the 'Revise and Resubmit' response.
-              * Developed an interactive Shiny web application to visualize 17-dimensional data, enhancing collaboration and data interpretation among the research team.
+              * Developed an interactive [Shiny web application](https://github.com/FridljDa/ui_pm_attributable) to visualize 17-dimensional data, enhancing collaboration and data interpretation among the research team.
               * Collaborated with seven Stanford co-authors to systematically gather and integrate critical feedback throughout various project stages, driving a significant enhancement in research quality.
         - title: Exchange student
-          company: Yale University, Applied Mathematics Program
+          company: Yale University
           company_url: 'https://www.yale.edu/'
           company_logo: Yale_University_Shield_1
           location: New Haven, USA
@@ -102,10 +102,10 @@ sections:
           date_start: '2021-10-01'
           date_end: '2022-05-31'
           description: |2-
-              * Developed and implemented a novel statistical method in R under the guidance of [Wolfgang Huber](https://www.huber.embl.de/) and Nikos Ignatiadis to identify outliers in large-scale data sets, enhancing detection capabilities in the presence of high-dimensional side-information.
+              * Developed and implemented a novel statistical method in R under the guidance of [Wolfgang Huber](https://www.huber.embl.de/) and [Nikos Ignatiadis](https://nignatiadis.github.io/) to identify outliers in large-scale data sets, enhancing detection capabilities in the presence of high-dimensional side-information.
               * Tripled statistical detection power in a high-dimensional setting by integrating Selective Inference, Machine Learning, and Empirical Bayes approaches.
               * Successfully applied the developed method to genome-wide association study, identifying key genetic markers linked to diseases.
-              * Presented research findings at seven scientific events, including a seminar talks at Yale University and University of North Carolina at Chapel Hill and a competitively selected oral contribution at DAGStat 2022, attended by 100 scholars.
+              * Presented research findings at seven scientific events, including a seminar talks at [Yale University](https://www.yale.edu/) and [University of North Carolina at Chapel Hill](https://www.unc.edu/) and a competitively selected oral contribution at [DAGStat 2022](https://www.dagstat2022.uni-hamburg.de/bilder/booklet.pdf), attended by 100 scholars.
               * Conducted the peer review for manuscript at Bioinformatics Advances, contributed the peer review for manuscript at Cell Biology.
         - title: Exchange student
           company: Hebrew University of Jerusalem
