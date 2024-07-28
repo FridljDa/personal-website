@@ -34,7 +34,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: Journal article in Nature Medicine 
-publication_short: Journal article
+publication_short: Nature Medicine
 #publication: In *Wowchemy Conference*
 #publication_short: In *ICW*
 
