@@ -1,5 +1,5 @@
 ---
-title: "Sociodemographic and geographic variation in mortality attributable to air pollution in the United States"
+title: "Disparities in air pollution attributable mortality in the US population by race/ethnicity and sociodemographic factors"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -34,7 +34,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: Journal article in Nature Medicine 
-publication_short: Preprint
+publication_short: Journal article
 #publication: In *Wowchemy Conference*
 #publication_short: In *ICW*
 

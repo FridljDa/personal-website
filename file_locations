@@ -1,8 +1,10 @@
+Important commands:
+bash update.sh -"
+bash view.sh
+
 Download Hugo:
 https://docs.hugoblox.com/getting-started/install-hugo/
 brew install git golang hugo nodeo
-
-bash update.sh -"
 
 Important file locations:
 - personal-website1/content/_index.md #main everything
